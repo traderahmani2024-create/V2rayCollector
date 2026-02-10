@@ -1,5 +1,4 @@
-ss://nasnet@zula.ir:8080?type=ws&host=nasnet-146198086.iranpress.co&path=/nasnet/cdn&packetEncoding=xudp#@Vip_Security join us - 496
-ss://nasnet@zula.ir:8080?encryption=chacha20-poly1305&type=ws&host=nasnet-511952424.mcitel.co&path=/nasnet/cdn&packetEncoding=xudp#@Vip_Security join us - 495
+ss://nasnet@zula.ir:8080?type=ws&host=nasnet-146198086.iranpress.co&path=/nasnet/cdn&packetEncoding=xudp#@Vip_Security join us - 495
 ss://eyJhZGQiOiI1LjE2MC4xMjguMjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiI2MDEwMmM0ZS03ZjExLTRiMWUtOGFlYi0yNTI5ZjdkMTkyYTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfp6ItQHR1cmJvdjJib3giLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9#@Vip_Security join us - 494
 ss://ec4c349c-b3c6-4cff-be63-01eaad1dc098@217.69.5.32:443?packetEncoding=xudp#@Vip_Security join us - 493
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#@Vip_Security join us - 492
