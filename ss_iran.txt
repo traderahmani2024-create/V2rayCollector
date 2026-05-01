@@ -1,5 +1,6 @@
-ss://eafa523f-3472-4efc-f1c5-6ce25b3910a9@77.90.11.178:17662?encryption=auto&headerType=http&path=%2F&security=none&type=tcp#@Vip_Security join us - 275
-ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@dkstatics-public.digikala.com:443#@Vip_Security join us - 274
+ss://eafa523f-3472-4efc-f1c5-6ce25b3910a9@77.90.11.178:17662?encryption=auto&headerType=http&path=%2F&security=none&type=tcp#@Vip_Security join us - 276
+ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@dkstatics-public.digikala.com:443#@Vip_Security join us - 275
+ss://b5e9480a-b7aa-40a4-f9a7-5299b5e363b4@152.67.218.38:443?encryption=auto&path=%2F&security=none&type=ws#@Vip_Security join us - 274
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#@Vip_Security join us - 273
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#@Vip_Security join us - 272
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#@Vip_Security join us - 271
